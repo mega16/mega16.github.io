@@ -1,6 +1,6 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            Mega16
+longtitle:        Mega16 Gitbook
 author:           HE Tao
 email:            sighingnow@gmail.com
 description: >
@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://github.com/mega16/mega16.github.io'
+baseurl:          '/gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
