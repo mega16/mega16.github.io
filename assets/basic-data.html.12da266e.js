@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-33a139a7","path":"/javascript/basic-data.html","title":"基础数据","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667130603000,"contributors":[{"name":"mega16","email":"mega16@aliyun.com","commits":1}]},"filePathRelative":"javascript/basic-data.md"}');export{a as data};

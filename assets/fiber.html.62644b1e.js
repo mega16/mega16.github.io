@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,a as e,b as c}from"./app.54161e51.js";const o={},s=e("h1",{id:"fiber",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fiber","aria-hidden":"true"},"#"),c(" Fiber")],-1),i=[s];function n(_,d){return t(),a("div",null,i)}const h=r(o,[["render",n],["__file","fiber.html.vue"]]);export{h as default};
